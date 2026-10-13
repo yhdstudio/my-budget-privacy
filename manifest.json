@@ -1,0 +1,17 @@
+{
+  "name": "My Budget - 個人財務與待辦管家",
+  "short_name": "My Budget",
+  "description": "離線個人財務記帳、待購清單、待繳費與定時提醒管家",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
